@@ -3,7 +3,7 @@
 CEO of [Somco Software](https://somcosoftware.com) · 3x Qt Champion · Qt Framework 💚 enthusiast
 
 I'm a doer. I like getting things done and shipping, not talking about shipping.
-![Lukas Kosiński](assets/kosadev.jpg "Łukasz Kosiński")
+![Lukas Kosiński](assets/lukas_qt_cs_26_2.png "Łukasz Kosiński")
 
 ## 🏢 Somco Software
 
